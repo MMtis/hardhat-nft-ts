@@ -1,6 +1,6 @@
 # The Ultimate NFT Repo
 
-This project is a rework of the section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
+This project is a rework of the section of the Typescript version of the Blockchain/Smart Contract FreeCodeCamp Course 
 
 
 <br/>
